@@ -7,7 +7,7 @@ listaDeExperimentos = [
 
 def agregar_experimento():
     """Permite agregar un nuevo experimento con sus atributos. dificultad: 1"""
-    #trabajando
+    #trabajando 2
     pass
 
 def eliminar_experimentos():

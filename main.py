@@ -17,6 +17,7 @@ def eliminar_experimentos():
 
 def visualizar_experimentos():
     """Permite visualizar todos los experimentos. dificultad: 1. requiere el uso de la funcion agregar_experimento"""
+    #Trabajando 4
     pass
 
 def calcular_estadisticas():

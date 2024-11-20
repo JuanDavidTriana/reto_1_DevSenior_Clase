@@ -7,21 +7,7 @@ listaDeExperimentos = [
 
 def agregar_experimento():
     """Permite agregar un nuevo experimento con sus atributos. dificultad: 1"""
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
-    #trabajando 2
+    #trabajando 1
     pass
 
 def eliminar_experimentos():
@@ -41,11 +27,12 @@ def calcular_estadisticas():
 
 def comprar_experimentos():
     """Comparar dos o mas expremientos para determinar los mejores o peores resultados dificultad: 2. requiere el uso de funciones calcular_estudisticas"""
-     #Trabajando 6
+    #Trabajando 6
     pass
 
 def generar_informe():
     """Generar un informe resumen de los expremintos y sus estadisticas. dificultad: 3. requiere el uso de funciones visualizar_experimentos y calcular_estadisticas"""
+    print("Hola")
     pass
 
 def mostar_menu():

@@ -22,6 +22,7 @@ def visualizar_experimentos():
 
 def calcular_estadisticas():
     """Calcular estadisticas basicas(promedios, máximos y mínimos) de un experimento. dificultad: 2. requiere el uso de funcion agregar_experimento"""
+    #Trabajando 4
     pass
 
 def comprar_experimentos():

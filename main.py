@@ -12,6 +12,7 @@ def agregar_experimento():
 
 def eliminar_experimentos():
     """Perminte eliminar un experimento. dificultad: 1, requiere el uso de la funcion agregar_experimento"""
+    #Trabajando 3
     pass
 
 def visualizar_experimentos():

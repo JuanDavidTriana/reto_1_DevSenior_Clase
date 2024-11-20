@@ -46,7 +46,7 @@ def comprar_experimentos():
 
 def generar_informe():
     """Generar un informe resumen de los expremintos y sus estadisticas. dificultad: 3. requiere el uso de funciones visualizar_experimentos y calcular_estadisticas"""
-    print()
+    print("Hola")
     pass
 
 def mostar_menu():
